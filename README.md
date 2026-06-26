@@ -51,7 +51,7 @@ Beberapa atribut penting:
 # Project Structure
 
 ```
-AI_Engineer_Transjakarta/
+Achmad-Dylan-Alfaris_ml-test/
 │
 ├── README.md
 │
@@ -327,6 +327,4 @@ Walaupun ensemble tiga model menghasilkan MAE yang hampir identik, kombinasi **X
 
 # Author
 
-Technical Test Submission
-
-AI Engineer Candidate
+Achmad Dylan Alfaris - MT Transjakarta Candidate
